@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Group 2 HRM Project
 
 ## Setup Instructions
@@ -8,3 +9,7 @@
    - Mac/Linux: `source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the server: `python manage.py runserver`
+=======
+# HRM
+Four group
+>>>>>>> bc52c730565ca17653e2487c55dd76e322d216cc
